@@ -1,0 +1,1 @@
+totalHour=12;
